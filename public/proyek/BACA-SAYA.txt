@@ -1,0 +1,3 @@
+Simpan foto proyek di folder ini (JPG, PNG, atau WebP), misalnya potret-urban.jpg.
+Lalu ubah nama file pada src/data.js, di baris "gambar" tiap proyek.
+Saran ukuran: lebar 1200px, rasio 16:10, ukuran file di bawah 400 KB.

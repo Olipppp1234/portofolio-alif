@@ -1,0 +1,2 @@
+Ikon di folder ini hanya contoh (huruf berwarna).
+Ganti dengan logo asli: simpan file baru di sini, lalu ubah nama file pada src/data.js (bagian "software").
