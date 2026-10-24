@@ -9,6 +9,8 @@ export const profil = {
   lokasi: "Pinrang, Indonesia",
   email: "katomuhammad28@gmail.com",
   web3key: "cd7dac2f-9d5f-4f64-ba73-e490a57952da",
+  cv: "/CV-Muh-Alif.pdf",
+  cvNama: "CV-Muh-Alif.pdf",
   intro:
     "Saya Alif, kreator digital yang bekerja di fotografi, desain grafis, pengembangan web, dan proyek game Unity. Saya suka menggabungkan visual yang kuat dengan teknologi yang rapi, dari sesi foto komersial dan branding sampai situs web dan game interaktif.",
 };

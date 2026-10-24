@@ -359,3 +359,4 @@ body::after {
 .status-form.gagal { color: #d33a3a; }
 .status-form a { color: inherit; }
 form .btn:disabled { opacity: .6; cursor: wait; transform: none; }
+

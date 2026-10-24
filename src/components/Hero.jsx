@@ -19,6 +19,7 @@ export default function Hero() {
           <div className="btns">
             <a className="btn utama" href="#proyek">Lihat proyek</a>
             <a className="btn" href="#kontak">Hubungi saya</a>
+            {profil.cv && <a className="btn" href={profil.cv} download={profil.cvNama || true}>Unduh CV</a>}
           </div>
         </div>
         <div className="foto-wrap">
