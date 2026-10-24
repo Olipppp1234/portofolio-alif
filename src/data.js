@@ -65,7 +65,7 @@ export const tautan = [
 
 export const sosial = [
   { label: "WhatsApp", url: "https://wa.me/6281234567890" },
-  { label: "Instagram", url: "https://instagram.com/" },
+  { label: "Instagram", url: "https://www.instagram.com/_mhmmadalifff/" },
   { label: "TikTok", url: "https://tiktok.com/" },
   { label: "LinkedIn", url: "https://linkedin.com/" },
 ];
