@@ -58,7 +58,7 @@ export const keahlian = [
 
 export const tautan = [
   { label: "Behance", url: "https://behance.net/" },
-  { label: "Pinterest", url: "https://pinterest.com/" },
+  { label: "Pinterest", url: "https://pin.it/4x2BpQlNb" },
   { label: "GitHub", url: "https://github.com/" },
   { label: "itch.io (game)", url: "https://itch.io/" },
 ];
